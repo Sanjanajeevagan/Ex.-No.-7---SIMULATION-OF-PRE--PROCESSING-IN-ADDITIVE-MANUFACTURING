@@ -49,10 +49,10 @@
 ![image](https://github.com/user-attachments/assets/72f5fecb-5727-4d9b-9f52-1c736927b90e)
 
 ### Name:
-NIRALYA J
+SANJANA.J
 ### Register Number:
 
-212224230188
+212224230240
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
